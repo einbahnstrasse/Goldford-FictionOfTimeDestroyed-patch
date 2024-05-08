@@ -44,8 +44,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### [1.1] 2016-10-16   
 _patch revised for ICMC, Utrecht_   
-1. Score PDF updated to version “Goldford-TheFictionOfTimeDestroyed-FSD7.pdf”.
-2. Main patch updated to include JUMP CUEING to facilitate rehearsals. Qlist’s rewind problem has been solved. Now the user may launch an individual cue mid-piece (from the “p cuez” subpatch) without launching the cues that came before it. (This has only been tested on a few cues, however; there may be further problems due to preloading a sound file a cue earlier, prior to launching that sound file’s cue. If this becomes a problem I will need to redesign the Qlist to reflect this.)
 
 ##### Added  
 - v1.1 Score PDF updated to version “Goldford-TheFictionOfTimeDestroyed-FSD7.pdf”.
