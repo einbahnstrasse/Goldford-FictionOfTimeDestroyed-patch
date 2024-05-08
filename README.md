@@ -55,6 +55,9 @@ _patch revised for ICMC, Utrecht_
 - v1.1 `qlist`’s rewind problem has been solved. Now the user may launch an individual cue mid-piece (from the `p cuez` subpatch) without launching the cues that came before it.
 - v1.1 (This has only been tested on a few cues, however; there may be further problems due to preloading a sound file a cue earlier, prior to launching that sound file’s cue. If this becomes a problem I will need to redesign the `qlist` to reflect this.)
 
-##### Removed
+##### Removed  
+
+#### [1.0] 2015-07-18  
+_initial version for Ensemble NOMOS, Valencia, Spain_  
 
 
