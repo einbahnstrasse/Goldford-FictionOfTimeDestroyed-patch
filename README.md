@@ -2,7 +2,14 @@
 
 ## The Fiction of Time Destroyed — Performance Patch
 
-Louis Goldford (2015), patch rev. 2016 for ICMC, Utrecht
+Composed by Louis Goldford (2015)  
+Version for MaxMSP designed by Louis Goldford (2015)  
+
+### Contact  
+* louis.goldford@columbia.edu 
+* +49.152.2101.4084 (DE) 
+* +1.415.967.3531 (US) 
+* +1.314.629.7913 (WhatsApp)  
 
 ### Installation   
 
@@ -28,17 +35,26 @@ Before attempting to run the piece, review the tech rider (Fiction-TechRider-Int
 4. Conductor cues the start of the piece, and computer assistant follows throughout.
 
 
-### Updates    
+### Change Log    
 
-10.16.16 —
+_All notable changes to this project will be documented in this file._   
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+#### [1.1] 2016-10-16   
+_patch revised for ICMC, Utrecht_   
 1. Score PDF updated to version “Goldford-TheFictionOfTimeDestroyed-FSD7.pdf”.
 2. Main patch updated to include JUMP CUEING to facilitate rehearsals. Qlist’s rewind problem has been solved. Now the user may launch an individual cue mid-piece (from the “p cuez” subpatch) without launching the cues that came before it. (This has only been tested on a few cues, however; there may be further problems due to preloading a sound file a cue earlier, prior to launching that sound file’s cue. If this becomes a problem I will need to redesign the Qlist to reflect this.)
 
+##### Added  
+- v1.1 Score PDF updated to version “Goldford-TheFictionOfTimeDestroyed-FSD7.pdf”.
 
-### Troubleshooting   
+##### Changed  
+- v1.1 Main patch updated to include JUMP CUEING to facilitate rehearsals.
+- v1.1 Qlist’s rewind problem has been solved. Now the user may launch an individual cue mid-piece (from the “p cuez” subpatch) without launching the cues that came before it.
+- v1.1 (This has only been tested on a few cues, however; there may be further problems due to preloading a sound file a cue earlier, prior to launching that sound file’s cue. If this becomes a problem I will need to redesign the Qlist to reflect this.)
 
-Email louis.goldford@columbia.edu or call +1.314.629.7913 with any questions or concerns. Thanks!
+##### Removed
 
-Louis Goldford
-16 October 2016
-NYC
+
