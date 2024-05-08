@@ -1,6 +1,6 @@
 # Goldford-FictionOfTimeDestroyed-patch
 
-## The Fiction of Time Destroyed — Performance Patch
+## _The Fiction of Time Destroyed_ — Performance Patch
 
 Composed by Louis Goldford (2015)  
 Version for MaxMSP designed by Louis Goldford (2015)  
