@@ -24,7 +24,7 @@ In order to run the software in performance, you will need IRCAMverb from the IR
 
 It is strongly advised that a small USB/MIDI mixer be used to control the faders in the patch, but one can also use the mouse when necessary. The patch is configured for a Korg nanoKONTROL2.
 
-See the SCORE (`Goldford-TheFictionOfTimeDestroyed-FSD7.pdf`), located in the patch folder, for additional setup requirements.
+See the SCORE (`Goldford-TheFictionOfTimeDestroyed-FSD7_19-08-2020.pdf`), located in the patch folder, for additional setup requirements.
 
 
 ### Running    
