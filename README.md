@@ -1,4 +1,4 @@
-# Goldford-FictionOfTimeDestroyed-patches
+# Goldford-FictionOfTimeDestroyed-patch
 
 ## The Fiction of Time Destroyed — Performance Patch
 
