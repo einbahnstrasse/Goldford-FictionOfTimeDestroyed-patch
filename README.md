@@ -2,6 +2,8 @@
 
 ## _The Fiction of Time Destroyed_ — Performance Patch
 
+for alto flute, bass clarinet, cello, and electronics
+
 Composed by Louis Goldford (2015)  
 Version for MaxMSP designed by Louis Goldford (2015)  
 
