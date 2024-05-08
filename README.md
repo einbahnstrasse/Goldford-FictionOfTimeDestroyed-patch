@@ -44,11 +44,21 @@ _All notable changes to this project will be documented in this file._
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+#### [2.0] 2024-05-08   
+_revised for Meiter Ensemble, Tel Aviv_   
+
+##### Added  
+
+##### Changed  
+- v2.0 Score PDF updated to version `Goldford-TheFictionOfTimeDestroyed-FSD7_19-08-2020.pdf`. 
+
+##### Removed  
+
 #### [1.1] 2016-10-16   
 _patch revised for ICMC, Utrecht_   
 
 ##### Added  
-- v1.1 Score PDF updated to version `Goldford-TheFictionOfTimeDestroyed-FSD7.pdf`. 
+- v1.1 Score PDF added: `Goldford-TheFictionOfTimeDestroyed-FSD7.pdf`. 
 
 ##### Changed  
 - v1.1 Main patch introduces **JUMP CUEING** to facilitate rehearsals.
