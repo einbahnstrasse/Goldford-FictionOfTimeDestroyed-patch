@@ -60,4 +60,9 @@ _patch revised for ICMC, Utrecht_
 #### [1.0] 2015-07-18  
 _initial version for Ensemble NOMOS, Valencia, Spain_  
 
+##### Added  
+- v1.0 Everything
+
+##### Changed  
+##### Removed  
 
