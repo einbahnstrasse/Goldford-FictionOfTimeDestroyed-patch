@@ -19,7 +19,9 @@ Download & unzip folder `Goldford-FictionOfTimeDestroyed-patches` and place in y
 
 Alternatively, if you're running `git`, you can clone this repo:
 
-`git clone https://github.com/einbahnstrasse/Goldford-FictionOfTimeDestroyed-patch.git`  
+```
+git clone https://github.com/einbahnstrasse/Goldford-FictionOfTimeDestroyed-patch.git    
+```
 
 ### Requirements    
 
