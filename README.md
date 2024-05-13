@@ -44,15 +44,24 @@ _All notable changes to this project will be documented in this file._
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-#### [2.0] 2024-05-08   
+#### [2.0] 2024-05-13   
 _revised for Meiter Ensemble, Tel Aviv_   
 
 ##### Added  
-
+- v2.0 individual cues now have listed time stamps, rehearsal letters, and score page numbers to facilitate rehearsals   
+- v2.0 `spat5.oper` receives initialization from a converted text file based on old `ircamverb` parameters 
+- v.20 `spat5.oper` can be double-clicked on to easily adjust source positions and reverb settings  
+- v2.0 instrumental parts (PDFs) have been added to a new `score-and-parts` subfolder, together with the score  
+- v2.0 tech rider added to a new `docs` subfolder 
+- v2.0 subfolder `spat5` contains all new spat settings to be saved and loaded using commands like `/preset/export` within the patch
+  
 ##### Changed  
 - v2.0 Score PDF updated to version `Goldford-TheFictionOfTimeDestroyed-FSD7_19-08-2020.pdf`. 
-
+- v2.0 `ircamverb` replaced by Spat5 objects: `spat5.oper` and `spat5.spat~`  
+- v.20 dry signal monitor metering is more clear: these `live.meter~` objects have a gray background  
+  
 ##### Removed  
+- v2.0 `ircamverb` 
 
 #### [1.1] 2016-10-16   
 _patch revised for ICMC, Utrecht_   
