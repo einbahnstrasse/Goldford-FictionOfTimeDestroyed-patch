@@ -17,15 +17,13 @@ Version for MaxMSP designed by Louis Goldford (2015)
 
 Download & unzip folder `Goldford-FictionOfTimeDestroyed-patches` and place in your Max packages folder (`Applications/Max 8/Packages`) or elsewhere in your Max search path.
 
-
 ### Requirements    
 
-In order to run the software in performance, you will need IRCAMverb from the IRCAM forum (http://forumnet.ircam.fr/). Without IRCAMverb, onboard reverb may be substituted at mix position.
+In order to run the software in performance, you will need free Max package `Spat5` from the IRCAM forum at [https://forum.ircam.fr/projects/detail/spat/](https://forum.ircam.fr/projects/detail/spat/){:target="_blank"}. Without `Spat5`, onboard reverb may be substituted at mix position.
 
 It is strongly advised that a small USB/MIDI mixer be used to control the faders in the patch, but one can also use the mouse when necessary. The patch is configured for a Korg nanoKONTROL2.
 
-See the SCORE (`Goldford-TheFictionOfTimeDestroyed-FSD7_19-08-2020.pdf`), located in the patch folder, for additional setup requirements.
-
+See the TECH RIDER located in the subfolder `docs`, and the SCORE (`Goldford-TheFictionOfTimeDestroyed-FSD7_19-08-2020.pdf`), located in the subfolder `score-and-parts`, for additional setup requirements.
 
 ### Running    
 
@@ -36,13 +34,12 @@ Before attempting to run the piece, review the tech rider (`Fiction-TechRider-In
 3. Click on the `init!` button once all audio drivers and mics are configured. 
 4. Conductor cues the start of the piece, and computer assistant follows throughout.
 
-
 ### Change Log    
 
 _All notable changes to this project will be documented in this file._   
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/){:target="_blank"},
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html){:target="_blank"}.
 
 #### [2.0] 2024-05-13   
 _revised for Meiter Ensemble, Tel Aviv_   
