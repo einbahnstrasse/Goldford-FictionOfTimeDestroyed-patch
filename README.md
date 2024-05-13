@@ -19,7 +19,7 @@ Download & unzip folder `Goldford-FictionOfTimeDestroyed-patches` and place in y
 
 ### Requirements    
 
-In order to run the software in performance, you will need free Max package `Spat5` from the IRCAM forum at [https://forum.ircam.fr/projects/detail/spat/](https://forum.ircam.fr/projects/detail/spat/){:target="_blank"}. Without `Spat5`, onboard reverb may be substituted at mix position.
+In order to run the software in performance, you will need free Max package `Spat5` from the IRCAM forum at [https://forum.ircam.fr/projects/detail/spat/](https://forum.ircam.fr/projects/detail/spat/). Without `Spat5`, onboard reverb may be substituted at mix position.
 
 It is strongly advised that a small USB/MIDI mixer be used to control the faders in the patch, but one can also use the mouse when necessary. The patch is configured for a Korg nanoKONTROL2.
 
@@ -38,8 +38,8 @@ Before attempting to run the piece, review the tech rider (`Fiction-TechRider-In
 
 _All notable changes to this project will be documented in this file._   
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/){:target="_blank"},
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html){:target="_blank"}.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 #### [2.0] 2024-05-13   
 _revised for Meiter Ensemble, Tel Aviv_   
