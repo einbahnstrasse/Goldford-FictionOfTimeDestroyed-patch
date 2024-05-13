@@ -15,7 +15,11 @@ Version for MaxMSP designed by Louis Goldford (2015)
 
 ### Installation   
 
-Download & unzip folder `Goldford-FictionOfTimeDestroyed-patches` and place in your Max packages folder (`Applications/Max 8/Packages`) or elsewhere in your Max search path.
+Download & unzip folder `Goldford-FictionOfTimeDestroyed-patches` and place in your Max packages folder (`Applications/Max 8/Packages`) or elsewhere in your Max search path.  
+
+Alternatively, if you're running `git`, you can run the following command in a directory of your choice to clone this repo:
+
+`git clone https://github.com/einbahnstrasse/Goldford-FictionOfTimeDestroyed-patch.git`  
 
 ### Requirements    
 
