@@ -47,6 +47,17 @@ _All notable changes to this project will be documented in this file._
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+#### [2.1] 2025-04-05   
+_revised for Meiter Ensemble, Tel Aviv_   
+
+##### Added  
+- PANIC! Button to stop sound files midway through playback. 
+- live.drop object inside init.spat subpatch to override spat file loading if necessary. 
+  
+##### Changed   
+##### Removed  
+
+
 #### [2.0] 2024-05-13   
 _revised for Meiter Ensemble, Tel Aviv_   
 
